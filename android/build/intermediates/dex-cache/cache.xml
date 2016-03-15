@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-4c38e9306aa2d7a89f13e331370be9131260b6d1.jar" />
+    </item>
+    <item
+        jar="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\classes-e58a1cf70628e74ea82a9300049568db4cff8e76.jar" />
+    </item>
+    <item
+        jar="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.21.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="771892705d7958ec5a294a103a0e52e7f8d0bdc0">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\classes-9e1cb36c1f3713c0c5af87dde0432eebad67ea9b.jar" />
+    </item>
+    <item
+        jar="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\classes-ba72782b66819c1e7898515a207b0eb606440470.jar" />
+    </item>
+    <item
+        jar="D:\android-studio-ide-143.2443734-windows\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-17bd728646c3c0eb6e23a590728a7d732b4b4d85.jar" />
+    </item>
+    <item
+        jar="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\classes-b90309fa549ceccf75444a309e627db9eb422c2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiongxuesong-pc\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho-okhttp\1.2.0\6c5c9380e245c4ff5be2b2a49dcbb0200c39798e\stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\stetho-okhttp-1.2.0-b2d91cfd6f347b969b0a04977fc2d49fc1a39fd8.jar" />
+    </item>
+    <item
+        jar="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\classes-34e3fbf9a1365ed61bbecb8ed587424ad4abb2e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiongxuesong-pc\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-1fc38ced261b000a7296ab488bb375080849bbd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiongxuesong-pc\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-895e436bcd6078708a17c62d604af2cd3e3c1df7.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiongxuesong-pc\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\commons-cli-1.2-da8fc5cc8e52790467ede634953e5faddfb5ccb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiongxuesong-pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-7967e17610715e87f1d9085f8db47788799436ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiongxuesong-pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.5.0\e9753b7dcae5deca92e871c5c759067070b07bc\okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.5.0-35ea9125259b940f2da6202ef95abb7406223d5b.jar" />
+    </item>
+    <item
+        jar="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\classes-a6c2da029a142a7695dd72b98f1b33975c65f500.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiongxuesong-pc\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3-69148383ed4625037665883ca9172130cae406a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiongxuesong-pc\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.2.0\1d6cdb8ce8185b8b23213fad48a83987fb6d2d67\stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\stetho-1.2.0-d17355f22fe8a484f1790cf1fdf6463e391857cd.jar" />
+    </item>
+    <item
+        jar="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\classes-f6c83c8b5dd1545e815ed902942993d9c00416ce.jar" />
+    </item>
+    <item
+        jar="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.21.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ed5dc2d162c6a24aeaeb765bca63e2ee5171f8e">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-dcd2658cc37ac770716ef9489df72c44edee2b80.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiongxuesong-pc\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\okio-1.6.0-817caee40612958207e33e4004e9e72e2222479d.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiongxuesong-pc\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-95cacf12618303cef188b5f66d59ac531b3ed359.jar" />
+    </item>
+    <item
+        jar="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\classes-a21ac24cc5a6999ca56349aa2e3f3674f80c367d.jar" />
+    </item>
+    <item
+        jar="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\pre-dexed\debug\classes-d5116a7936b2fe56e096408b380178ad637a765a.jar" />
+    </item>
+
+</items>
