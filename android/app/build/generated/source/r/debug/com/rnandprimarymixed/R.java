@@ -1839,7 +1839,7 @@ containing a value of this type.
         public static final int alertTitle=0x7f0d0037;
         public static final int always=0x7f0d0024;
         public static final int beginning=0x7f0d0021;
-        public static final int btn_look=0x7f0d0056;
+        public static final int btn_look=0x7f0d0057;
         public static final int buttonPanel=0x7f0d003d;
         public static final int cancel_action=0x7f0d005a;
         public static final int catalyst_redbox_title=0x7f0d0068;
@@ -1877,7 +1877,6 @@ containing a value of this type.
         public static final int line3=0x7f0d0062;
         public static final int listMode=0x7f0d000a;
         public static final int list_item=0x7f0d0031;
-        public static final int main_lv_search_results=0x7f0d0057;
         public static final int media_actions=0x7f0d005c;
         public static final int middle=0x7f0d0023;
         public static final int multiply=0x7f0d0014;
@@ -1919,6 +1918,7 @@ containing a value of this type.
         public static final int text=0x7f0d0063;
         public static final int text2=0x7f0d0061;
         public static final int textSpacerNoButtons=0x7f0d003a;
+        public static final int textView=0x7f0d0056;
         public static final int time=0x7f0d005f;
         public static final int title=0x7f0d0033;
         public static final int title_template=0x7f0d0036;

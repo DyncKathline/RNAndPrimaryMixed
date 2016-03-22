@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:1:1-24:12
+ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:1:1-28:12
 	package
 		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:2:5-36
 		INJECTED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\Androi
 	android:name
 		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:6:5-22:19
+ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:6:5-26:19
 MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.react:react-native:0.21.0] D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.21.0\AndroidManifest.xml:13:5-20
@@ -30,39 +30,47 @@ MERGED from [com.android.support:support-v4:23.0.1] D:\React-Native-android\RNAn
 MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:10:9-41
 	android:allowBackup
-		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:9:9-43
 	android:theme
-		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:7:9-28
 activity#com.rnandprimarymixed.MainActivity
-ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:11:9-19:20
+ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:12:9-20:20
 	android:label
-		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:14:13-45
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:15:13-45
 	android:configChanges
-		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:13:13-83
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:14:13-83
 	android:name
-		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:12:13-41
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:13:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:15:13-18:29
+ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:16:13-19:29
 action#android.intent.action.MAIN
-ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:20:9-86
+ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:21:9-86
 	android:name
-		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:20:19-83
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:21:19-83
 activity#com.rnandprimarymixed.OpenActivity
-ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:21:9-50
+ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:22:9-50
 	android:name
-		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:21:19-47
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:22:19-47
+activity#com.rnandprimarymixed.OpenRNJSByActivity
+ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:23:9-25:86
+	android:configChanges
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:25:13-83
+	android:name
+		ADDED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:24:13-47
 uses-sdk
 INJECTED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.0.1] D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
@@ -96,8 +104,8 @@ ADDED from [com.facebook.react:react-native:0.21.0] D:\React-Native-android\RNAn
 	android:name
 		ADDED from [com.facebook.react:react-native:0.21.0] D:\React-Native-android\RNAndPrimaryMixed\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.21.0\AndroidManifest.xml:11:22-75
 android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:1:1-24:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 android:uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:1:1-24:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:1:1-24:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\React-Native-android\RNAndPrimaryMixed\android\app\src\main\AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

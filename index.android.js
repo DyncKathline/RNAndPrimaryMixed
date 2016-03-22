@@ -13,8 +13,10 @@ import React, {
     NativeModules
 } from 'react-native';
 
-//import OpenActivity from './OpenActivity';
-var OpenActivity = require('./OpenActivity');
+import OpenActivity from './OpenActivity';
+//var OpenActivity = require('./OpenActivity');
+
+import App from './App';
 
 class RNAndPrimaryMixed extends Component {
     render() {
@@ -30,6 +32,7 @@ class RNAndPrimaryMixed extends Component {
                     onPress={()=>{
                         OpenActivity.openActivity();
                     }}
+                    style={styles.style_view_commit}
                 >
                     <Text style={styles.instructions}>
                         打开一个Activity
@@ -57,6 +60,16 @@ const styles = StyleSheet.create({
         color: '#333333',
         marginBottom: 5,
         fontSize: 20,
+    },
+    style_view_commit: {
+        marginTop: 15,
+        marginLeft: 10,
+        marginRight: 10,
+        backgroundColor: '#63B8FF',
+        height: 35,
+        borderRadius: 5,
+        justifyContent: 'center',
+        alignItems: 'center',
     },
 });
 
